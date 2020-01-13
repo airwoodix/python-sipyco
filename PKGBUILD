@@ -1,7 +1,3 @@
-# From: https://www.archlinux.org/packages/community/any/python-pyserial/
-# Maintainer: Sergej Pupykin <pupykin.s+arch@gmail.com>
-# Maintainer: Douglas Soares de Andrade <dsandrade@gmail.com>
-# Contributor: Douglas Soares de Andrade <dsandrade@gmail.com>
 # Contributor: airwoodix <airwoodix@posteo.me>
 
 pkgname=python-sipyco-git
