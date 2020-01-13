@@ -8,6 +8,7 @@ pkgdesc="Simple Python Communications"
 arch=('any')
 url="https://github.com/m-labs/sipyco"
 license=('LGPL3')
+provides=('python-sipyco')
 depends=('python' 'python-numpy')
 source=('git://github.com/m-labs/sipyco.git')
 sha256sums=('SKIP')
